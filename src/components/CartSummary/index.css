@@ -1,1 +1,13 @@
 /* Write your CSS here */
+.checkoutbutton {
+  color: white;
+  padding: 5px;
+  border-style: none;
+  background-color: #0b69ff;
+  border-radius: 3px;
+  font-weight: 600;
+  width: 100%;
+}
+.cartsummcont {
+  width: 150px;
+}

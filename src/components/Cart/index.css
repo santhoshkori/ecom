@@ -38,3 +38,12 @@
 }
 
 /* Write your CSS here */
+.removecartitemcontainer {
+  text-align: end;
+  color: #0b69ff;
+}
+.cartsummry {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
